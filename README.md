@@ -4,6 +4,7 @@
 
 Click on the mybinder badge to start interacting with the code in a separate environment on mybinder. 
 
+Due to the big size of the dataset, notice that you need to unzip the files under the data folder in order to run the model!
 # Usage
 
 In order to run the code, you need to install the dependencies mentioned in requirements.txt. 
